@@ -5,7 +5,7 @@
   👨‍🎓 I am a recent computer science graduate from the United Kingdom
 </ul>
 <ul>
-  💻 I am currently a Junior Backend Engineer working with the Java programming language
+  💻 Working as a Junior Backend Engineer using the Java programming language
 </ul>
 <ul>
   💡 Aspiring to achieve social impact through programming
