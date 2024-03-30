@@ -2,10 +2,10 @@
 
 <h2>About Me</h2>
 <ul>
-  👨‍🎓 I am a recent computer science graduate from the United Kingdom
+  👨‍🎓 I am a computer science graduate from the United Kingdom, currently a master's student at Carnegie Mellon University
 </ul>
 <ul>
-  💻 Working as a Junior Backend Engineer using the Java programming language
+  💻 I have worked in industry as a junior backend engineer
 </ul>
 <ul>
   🎯 Aspiring to achieve social impact through programming
